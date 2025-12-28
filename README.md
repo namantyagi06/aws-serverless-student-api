@@ -1,3 +1,6 @@
+
+<img width="1175" height="475" alt="serverless2 2025-12-28 125716" src="https://github.com/user-attachments/assets/958a073d-0e7f-4388-9086-77b7660ff428" />
+
 AWS Serverless Student Data API*******
 
 A simple AWS Serverless web application that allows users to insert and retrieve student data using AWS Lambda, API Gateway, and DynamoDB, with a lightweight frontend built using HTML, CSS, and JavaScript.
